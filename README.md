@@ -1,5 +1,10 @@
 # Bank Tech Test
 
+### Approach
+I approached this tech test by first creating user stories, which were taken from a breakdown of the acceptance criteria.
+I then started diagramming out how I expected the programme to work in a google document.
+Lastly I visualised the methods that I felt I would require in order to meet the acceptance criteria of the program.
+
 ### User Stories
 ```
 As a customer,
@@ -18,6 +23,8 @@ As a customer,
 I want to be able to print a full  statement of my account,
 So that I can see what I've spent and deposited
 ```
+### Planning
+
 [Class planning and breakdown](https://docs.google.com/document/d/1j1xMccRkOlpET7PLq8427yrgkl-zQ5Wsj4qcw52c7KU/edit)
 
 ![Class diagram](./class_diagram.jpg)

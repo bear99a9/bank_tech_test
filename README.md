@@ -25,7 +25,7 @@ So that I can see what I've spent and deposited
 ```
 ### Planning
 
-[Class planning and breakdown](https://docs.google.com/document/d/1j1xMccRkOlpET7PLq8427yrgkl-zQ5Wsj4qcw52c7KU/edit)
+Here is my [class planning and breakdown](https://docs.google.com/document/d/1j1xMccRkOlpET7PLq8427yrgkl-zQ5Wsj4qcw52c7KU/edit). Visual from Miro:
 
 ![Class diagram](./class_diagram.jpg)
 

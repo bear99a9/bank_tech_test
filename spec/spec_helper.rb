@@ -4,6 +4,7 @@ require 'simplecov'
 require 'simplecov-console'
 require './lib/account'
 require './lib/transaction'
+require './lib/statement'
 
 SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter.new([
                                                                  SimpleCov::Formatter::Console

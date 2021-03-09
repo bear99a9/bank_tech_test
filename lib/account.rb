@@ -1,12 +1,14 @@
 # frozen_string_literal: true
 
 require_relative 'transaction'
+require_relative 'statement'
 
 class Account
+  DEFAULT_BALANCE = 0
   attr_reader :balance, :transactions
 
   def initialize
-    @balance = 0
+    @balance = DEFAULT_BALANCE
     @transactions = []
   end
 
@@ -18,9 +20,14 @@ class Account
 
   def withdraw(amount)
     raise "Insufficent funds current balance: £#{@balance}" unless can_withdraw?(amount)
+
     @balance -= amount
     withdraw = create_withdraw_transaction(amount)
     @transactions << withdraw
+  end
+
+  def print_statement
+    Statement.new.print_statement(@transactions)
   end
 
   private

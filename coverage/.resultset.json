@@ -4,7 +4,7 @@
       "/Users/seanedwards/Makers/january/week-9/bank_tech_test/spec/account_spec.rb": {
         "lines": [
           1,
-          3,
+          5,
           null,
           2,
           null,
@@ -22,10 +22,32 @@
           1,
           null,
           null,
+          1,
+          2,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/seanedwards/Makers/january/week-9/bank_tech_test/spec/transaction_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1615283883
+    "timestamp": 1615289883
   }
 }

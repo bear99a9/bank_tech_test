@@ -3,8 +3,10 @@
     "coverage": {
       "/Users/seanedwards/Makers/january/week-9/bank_tech_test/spec/account_spec.rb": {
         "lines": [
+          null,
+          null,
           1,
-          5,
+          6,
           null,
           2,
           null,
@@ -25,6 +27,13 @@
           1,
           2,
           null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
           null,
           null,
           1,
@@ -39,6 +48,8 @@
       },
       "/Users/seanedwards/Makers/january/week-9/bank_tech_test/spec/transaction_spec.rb": {
         "lines": [
+          null,
+          null,
           1,
           1,
           1,
@@ -48,6 +59,6 @@
         ]
       }
     },
-    "timestamp": 1615289883
+    "timestamp": 1615290908
   }
 }

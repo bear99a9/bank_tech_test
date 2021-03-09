@@ -1,5 +1,21 @@
 # Bank Tech Test
 
+[How to run](#How-to-run) | [Running Tests](#Running-Tests) | [Approach](#Approach) | [User Stories](#User-Stories) | [Planning](#Planning) | [IRB](#IRB) | [Specification](#Specification)
+
+### How to run
+First, clone this repository. Then:
+
+```bash
+> bundle install
+> irb -r './lib/account.rb'
+```
+
+### Running Tests
+from root folder, run the following command
+```bash
+$ rspec
+```
+
 ### Approach
 I approached this tech test by first creating user stories, which were taken from a breakdown of the acceptance criteria.
 I then started diagramming out how I expected the programme to work in a google document.
@@ -28,6 +44,10 @@ So that I can see what I've spent and deposited
 Here is my [class planning and breakdown](https://docs.google.com/document/d/1j1xMccRkOlpET7PLq8427yrgkl-zQ5Wsj4qcw52c7KU/edit). Visual from Miro:
 
 ![Class diagram](./class_diagram.jpg)
+
+### IRB
+<img width="1075" alt="Screenshot 2021-01-12 at 14 02 46" src="./Screenshot 2021-03-09 at 15.23.30.png">
+
 
 ## Specification
 
